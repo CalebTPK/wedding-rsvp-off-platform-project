@@ -14,4 +14,5 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	    |
-| Caleb	            | 3 	       |
+| Caleb	            | 3 	    |
+| Bob	            | 1 	    |
